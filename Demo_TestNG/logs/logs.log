@@ -1,0 +1,4 @@
+[INFO ] 2023-10-19 17:50:16.400 [main] TestLogger - chromedriver Setup is complete
+[INFO ] 2023-10-19 17:50:17.732 [main] TestLogger - implicitlywait of 10 Second
+[INFO ] 2023-10-19 17:50:19.354 [main] TestLogger - Logged into Myntra
+[INFO ] 2023-10-19 17:50:20.042 [main] TestLogger - Quitting the Driver

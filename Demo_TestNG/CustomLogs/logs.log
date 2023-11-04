@@ -1,0 +1,6 @@
+21:10:17.639 [main] INFO  - chromedriver Setup is complete
+21:10:20.052 [main] INFO  - implicitlyWait of 10 Second
+21:10:22.308 [main] INFO  - Logged into Myntra
+21:10:23.184 [main] INFO  - Quitting the Driver
+22:26:53.930 [main] INFO  - Browser Initilalized and went to the URL -https://www.google.com/
+22:27:28.472 [main] INFO  - Browser Initilalized and went to the URL -https://www.google.com/
